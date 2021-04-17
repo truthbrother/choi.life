@@ -7,9 +7,4 @@
 - [Jeremiah Choi](http://jeremiah.choi.life)
 - [Elijah Choi](https://elijah.choi.life)
 
-
-## Links
-
-- [Caltech Encounter Jesus](http://caltech.encounterj.org) 
-
 Powered by [Easy Cloud Solutions](https://easycloudsolutions.com)
